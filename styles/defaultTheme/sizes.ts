@@ -43,7 +43,7 @@ const sizes = {
     size: 600,
   },
   startMenu: {
-    maxHeight: 390,
+    maxHeight: 450,
     sideBar: {
       buttonHeight: 48,
       expandedWidth: "228px",
@@ -57,10 +57,10 @@ const sizes = {
       buttonWidth: "40px",
       chatWidth: 415,
     },
-    blur: "5px",
+    blur: "0px",
     button: {
       iconSize: "15px",
-      width: 36,
+      width: 44,
     },
     entry: {
       borderSize: "2px",
@@ -73,7 +73,7 @@ const sizes = {
         margin: 8,
       },
     },
-    panelBlur: "12px",
+    panelBlur: "0px",
   },
   titleBar: {
     buttonIconWidth: "10px",
