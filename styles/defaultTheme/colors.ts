@@ -36,7 +36,7 @@ const colors = {
       ],
       precise: ["rgb(167, 224, 235)", "rgb(0, 104, 128)", "rgb(0, 83, 102)"],
     },
-    background: "hsla(0, 0%, 10%, 70%)",
+    background: "rgb(46, 46, 46)",
     button: {
       color: "#FFF",
     },
